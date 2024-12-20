@@ -6,4 +6,5 @@ $('.counter').counterUp({
     time: 1000
 });
 
+
 })
